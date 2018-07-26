@@ -1,0 +1,28 @@
+{
+  "name": "img-lazy",
+  "version": "1.0.0",
+  "description": "An image lazyload tool for web.",
+  "main": "lazyImg.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tianwang8090/img-lazy"
+  },
+  "keywords": [
+    "img-lazy",
+    "lazyload",
+    "lazy",
+    "image",
+    "img",
+    "web",
+    "js"
+  ],
+  "author": "tianwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianwang8090/img-lazy/issues"
+  },
+  "homepage": "https://github.com/tianwang8090/img-lazy#readme"
+}
