@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "An image lazyload tool for web.",
   "main": "lazyImg.js",
+  files: [
+    "src",
+    "dist"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
