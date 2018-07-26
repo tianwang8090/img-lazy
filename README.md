@@ -9,6 +9,10 @@ An image lazyload tool for web.
 ### use
 ```html
 <script src=""></script>
+
+<!-- set the real img source value in 'data-src' -->
+<img data-src="x.jpg">
+
 ```
 ```javascript
 // with import
