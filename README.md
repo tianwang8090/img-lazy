@@ -1,14 +1,16 @@
-# lazyImg
+# img-lazy
+website: [https://github.com/tianwang8090/img-lazy](https://github.com/tianwang8090/img-lazy)
+
 An image lazyload tool for web.
 
 ## install & use
 
 ### install with npm or `srcipt` tag
-`npm i lazyImg -S` or `<script src=""></script>`
+`npm i lazy-img -S`   or    `<script src="https://unpkg.com/img-lazy"></script>`
 
 ### use
 ```html
-<script src=""></script>
+<script src="https://unpkg.com/img-lazy"></script>
 
 <!-- set the real img source value in 'data-src' -->
 <img data-src="x.jpg">
@@ -16,7 +18,7 @@ An image lazyload tool for web.
 ```
 ```javascript
 // with import
-import lazyImg from "lazyImg";
+import lazyImg from "img-lazy";
 
 lazyImg();
 ```
