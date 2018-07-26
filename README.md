@@ -1,4 +1,6 @@
 # img-lazy
+website: [https://github.com/tianwang8090/img-lazy](https://github.com/tianwang8090/img-lazy)
+
 An image lazyload tool for web.
 
 ## install & use
