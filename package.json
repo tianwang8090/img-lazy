@@ -1,6 +1,6 @@
 {
   "name": "img-lazy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An image lazyload tool for web.",
   "main": "src/lazyImg.js",
   "unpkg": "src/lazyImg.js",
